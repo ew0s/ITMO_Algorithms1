@@ -1,6 +1,6 @@
 # ITMO_Algorithms1
 
-First semestre labs
+## First semestre labs
 
 * [Laboratory 1](https://github.com/ew0s/ITMO_Algorithms1/tree/master/LABS/LAB1)
 * [Laboratory 2](https://github.com/ew0s/ITMO_Algorithms1/tree/master/LABS/LAB2)
